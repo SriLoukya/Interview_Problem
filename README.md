@@ -1,1 +1,1 @@
-# Interview_Problem
+# Automated screenshots of interactive elements
